@@ -1,6 +1,6 @@
 #!/bin/bash
 
-GROCY_RELEASE_URL=https://releases.grocy.info/latest
+GROCY_RELEASE_URL=https://github.com/b3njammin/grocy/archive/refs/heads/master.zip
 
 
 echo Start updating Grocy
